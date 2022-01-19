@@ -10,7 +10,7 @@ Edit the card
 User authentication
 
 Tech Stack: React | Redux | Material-UI |  Json server|JavaScript
-Deploy Link: https://meesho-by-nitrogen.netlify.app/![Screenshot (239)](https://user-images.githubusercontent.com/87030854/150151607-786ef739-62df-46f7-906f-22ec98bd2237.png)
+Deploy Link: https://meesho-by-nitrogen.netlify.app/
 ![Screenshot (241)](https://user-images.githubusercontent.com/87030854/150151685-602829ea-30a4-401a-9ecf-a673805fbc88.png)
 ![Screenshot (242)](https://user-images.githubusercontent.com/87030854/150151705-85635824-80df-4ba3-9b6a-70152e1bfa14.png)
 ![Screenshot (243)](https://user-images.githubusercontent.com/87030854/150151722-73219c4f-b0eb-4538-8086-c194edc68e88.png)
